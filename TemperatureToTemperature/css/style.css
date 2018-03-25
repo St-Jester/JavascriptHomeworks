@@ -1,0 +1,36 @@
+body
+{
+	text-align: center;
+	margin: 10px 10%;
+	font: 14px "Trebuchet MS";
+}
+
+#b1, #b2,#reset
+{
+	font-size: 12pt;
+	width: 150px;
+	border-radius: 10px;
+	outline: none;
+	margin:15px;
+}
+#data, #res
+{
+	font-size: 18px;
+	border: 1px solid silver;
+	outline: none;
+	width: 300px;
+	margin: 15px auto;
+	color: navy;
+}
+input[type = "number"]
+{
+	font: 14px "Trebuchet MS";
+	margin: 15px;
+	width: 100px;
+	text-align: center;
+}
+textarea
+{
+	resize: none;
+}
+
